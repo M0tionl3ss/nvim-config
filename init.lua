@@ -1,4 +1,5 @@
 require('plugins')
+require('lsp')
 
 -- UI
 vim.opt.relativenumber = true
